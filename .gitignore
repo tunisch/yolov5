@@ -24,9 +24,9 @@
 !cfg/yolov3*.cfg
 
 storage.googleapis.com
-!runs/*
-!data/*
-!data/images/*
+
+
+
 !data/*.yaml
 !data/hyps
 !data/scripts
@@ -35,7 +35,7 @@ storage.googleapis.com
 !data/images/bus.jpg
 !data/*.sh
 
-!results*.csv
+
 
 # Datasets -------------------------------------------------------------------------------------------------------------
 coco/
